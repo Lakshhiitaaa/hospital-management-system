@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=C\:\\Users\\jayka\\OneDrive\\Desktop\\Backend-Copy\\backend\\Appointment-Service\\.git;C\:\\Users\\jayka\\OneDrive\\Desktop\\Backend-Copy\\backend\\Billing-Service\\.git;C\:\\Users\\jayka\\OneDrive\\Desktop\\Backend-Copy\\backend\\EMR-Service\\.git;C\:\\Users\\jayka\\OneDrive\\Desktop\\Backend-Copy\\backend\\Doctor-Department-Service\\.git;
+GitRepositoriesView.GitDirectories.relative=Appointment-Service\\.git;Billing-Service\\.git;EMR-Service\\.git;Doctor-Department-Service\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
